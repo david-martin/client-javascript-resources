@@ -7,6 +7,7 @@ If I've used something before in a past project, proof of concept, snippet or an
 Frameworks/UI Frameworks
 ----------
 * __(U)__ Backbone.js http://backbonejs.org/
+* __(U)__ Bootstrap http://twitter.github.io/bootstrap/
 * __(U)__ Dojo Toolkit http://dojotoolkit.org/
 * __(U)__ MochaUI https://github.com/mui/mochaui
 * __(U)__ Mootools http://mootools.net/
@@ -39,3 +40,8 @@ Testing
 * __(U)__ Selenium http://docs.seleniumhq.org/
 * 
 
+UI
+------
+* __(U)__ jQuery UI http://jqueryui.com/
+* __(U)__ DataTables https://datatables.net/
+* 
