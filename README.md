@@ -18,6 +18,9 @@ Frameworks/UI Frameworks/Templating
 * __(U)__ mustache.js https://github.com/janl/mustache.js
 * __(U)__ handlebars http://handlebarsjs.com/
 * __(U)__ ejs http://embeddedjs.com/
+* AngularJS http://angularjs.org/
+* EmberJS http://emberjs.com/
+* KnockoutJS http://knockoutjs.com/
 * 
 
 
@@ -29,6 +32,7 @@ Utilities
 * __(U)__ Moment.js http://momentjs.com/
 * __(U)__ CryptoJS https://code.google.com/p/crypto-js/
 * __(U)__ Lawnchair Storage https://github.com/brianleroux/lawnchair
+* __(U)__ JSON.js https://github.com/douglascrockford/JSON-js
 * 
 
 Build Utilities
