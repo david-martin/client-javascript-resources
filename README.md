@@ -52,6 +52,7 @@ Testing
 * __(U)__ MonkeyTalk http://www.gorillalogic.com/monkeytalk
 * __(U)__ Selenium http://docs.seleniumhq.org/
 * __(U)__ jsTestDriver https://code.google.com/p/js-test-driver/
+* Huxley https://github.com/facebook/huxley
 * 
 
 UI
