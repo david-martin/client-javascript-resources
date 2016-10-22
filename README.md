@@ -45,7 +45,7 @@ Build Utilities
 
 Testing
 -------
-* __(U)__ Jasmine http://pivotal.github.io/jasmine/ https://github.com/gruntjs/grunt-contrib-jasmine
+* __(U)__ Jasmine https://jasmine.github.io/ https://github.com/gruntjs/grunt-contrib-jasmine
 * __(U)__ QUnit http://qunitjs.com/ https://github.com/gruntjs/grunt-contrib-qunit
 * __(U)__ CasperJS http://casperjs.org/
 * __(U)__ PhantomJS http://phantomjs.org/ https://github.com/gruntjs/grunt-lib-phantomjs
